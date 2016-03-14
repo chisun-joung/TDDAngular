@@ -1,0 +1,18 @@
+{
+  "name": "2_1",
+  "homepage": "https://github.com/chisun-joung/TDDAngular",
+  "authors": [
+    "chisun.joung <chisun.joung@lge.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
